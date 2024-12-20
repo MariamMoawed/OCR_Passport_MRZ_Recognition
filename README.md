@@ -26,4 +26,4 @@ Before computers and MRZs, TSA agents and immigration officials had to review yo
 
 MRZs allow TSA agents to quickly scan your information, validate who you are, and enable you to pass through the queue more quickly, thereby reducing queue length (and reducing the stress on travelers and officials alike).
 
-In the rest of this tutorial, you will learn how to implement an automatic passport MRZ scanner with OpenCV and Tesseract.
+
